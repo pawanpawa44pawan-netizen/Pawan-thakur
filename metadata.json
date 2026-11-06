@@ -1,0 +1,6 @@
+{
+  "name": "StreamLoop Studio",
+  "description": "24/7 Cloud Multi-Platform Live Streaming Studio for YouTube & Facebook with Zero Phone Load, Stream Quality Control, Loop Playlists, and AdSense Monetization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
